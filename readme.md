@@ -28,7 +28,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,github,javascript,react,git,postman,tailwindcss,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=dart,mysql,html,css,vscode,linux,postgresql,express" />
+    <img src="https://skillicons.dev/icons?i=dart,mysql,html,css,vscode,linux,postgresql,express,docker" />
 </div>
 
 <br/>
