@@ -19,12 +19,12 @@
   </picture>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Aqsaaaa&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/projects?username=Aqsaaaa&theme=github-dark" width="100%" alt="Aqsaaaa projects section" />
   </picture>
-</p>
+</p> -->
 
 <p align="center">
    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aqsaaaa/Aqsaaaa/output/space-shooter.gif">
