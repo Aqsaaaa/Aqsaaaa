@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aqsaaaa/Aqsaaaa/output/space-shooter.gif">
 </p> 
 
 <p align="center">
