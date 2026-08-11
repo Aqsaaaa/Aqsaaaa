@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - README.md
-      - .github/workflows/gitskins-space-shooter.yml
+      - .github/workflows/main.yml
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
